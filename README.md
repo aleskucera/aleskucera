@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aleš
 #### I am student at Czech Technical University in Prague
-I store here school assignments but make my projects for fun as well!
+You can find here my school assignments but my projects that I make for fun as well!
 
 Skills: Python / C / HTML / CSS
 
