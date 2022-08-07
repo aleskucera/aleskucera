@@ -4,13 +4,9 @@ I store here school assignments but make my projects for fun as well!
 
 Skills: Python / C / HTML / CSS
 
-- 🌱 I’m currently learning Deep learning 
+- 🌱 I’m currently learning Deep Learning 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aleskucera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ales_kucera/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleskucera&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aleskucera)  
-
-
