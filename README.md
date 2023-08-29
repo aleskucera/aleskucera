@@ -1,11 +1,9 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/aleskucera/aleskucera/main/wave.gif" width="30px" height="30px" />
-My name is Aleš and I'm a student of Robotics and Cybernetics :robot: at Czech Technical University in Prague. I'm interested in the field of artificial intelligence, with a focus on deep learning in computer vision :eyes:. 
+![intro](readme_img.png)
 
-I'm excited about exploring the potential of machine learning to solve complex problems and improve our lives.
-
- 
 
 ## :wrench: Technologies & Tools
+
+
 ### :computer: Languages
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
