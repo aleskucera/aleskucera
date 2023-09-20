@@ -1,15 +1,16 @@
-![intro](github-header-image.png)
+![intro](github-header-image6.png)
 
-
+<!--
 ## :wrench: Technologies & Tools
 
 
 ### :computer: Languages
+-->
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,c,matlab,latex)](https://skillicons.dev) -->
-
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,matlab,latex"/>
@@ -23,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=pytorch,ros"/>
   </a>
 </p>
+-->
 
 <!-- ### Deep Learning Libraries 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
