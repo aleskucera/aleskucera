@@ -1,4 +1,4 @@
-![intro](readme_img.png)
+![intro](github-header-image.png)
 
 
 ## :wrench: Technologies & Tools
